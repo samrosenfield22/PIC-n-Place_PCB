@@ -1,0 +1,24 @@
+Things to change for REV B:
+
+* Fix motor driver schematic
+* Fix FTDI footprint -- DONE!
+* Fix mounting hole size -- DONE!
+* Don't cover silk with vias
+* Make vias smaller (especially on motor driver pad)
+* Add input protection for 12V (diode? PTC?) -- DONE! (added diode)
+* Add connector for PSU -- DONE!
+* Ask Ed/John about better Micro USB connector
+* Change to smaller crystal package -- DONE! (might change back since I already have HC49 package crystals)
+* Check if 0805 10uF caps exist (for regulator) -- DONE!
+* Reroute traces that enter pads from corners
+* Change driver labels to "X, Y1, Y2" -- DONE!
+* Order headers and SMT LEDs
+* Add 0ohm R's to UART -- DONE!
+* Add connectors for limit switches
+
+Things to change for REV C!!!
+
+* Change Enable/Step pins
+* Switch Vac/Lightbox from 5V to 12V
+* Make sure mount holes are there!
+* Add Vac/Lightbox caps

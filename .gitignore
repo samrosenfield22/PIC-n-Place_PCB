@@ -45,3 +45,13 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Altium files & solidworks files to ignore
+*.sldprt
+*.sldasm
+*.step
+
+# Dirs to ignore
+old/
+Project*Logs*for*PIC_with_USB_2_0/
+History/

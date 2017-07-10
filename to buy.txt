@@ -1,0 +1,6 @@
+order more stepper drivers? current quantity = 2
+more 100mohm resistors? current q = 7
+do i have 6-pin 90deg headers at home? check pls.
+green, red smt leds? check at home.
+
+support@oshpark.com
